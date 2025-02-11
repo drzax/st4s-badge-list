@@ -1,7 +1,7 @@
 {
-  "name": "better-scrape-template",
+  "name": "st4s-badge-data-scraper",
   "version": "1.0.0",
-  "description": "This is a template repository for a [GitHub scraper](https://simonwillison.net/2020/Oct/9/git-scraping/)",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "scrape": "node scrape.js"
