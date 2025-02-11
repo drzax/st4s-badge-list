@@ -1,0 +1,16 @@
+{
+  "name": "better-scrape-template",
+  "version": "1.0.0",
+  "description": "This is a template repository for a [GitHub scraper](https://simonwillison.net/2020/Oct/9/git-scraping/)",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "node scrape.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type":"module",
+  "dependencies": {
+    "@playwright/browser-chromium": "^1.50.1",
+    "playwright": "^1.50.1"
+  }
+}
