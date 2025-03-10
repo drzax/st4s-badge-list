@@ -440,16 +440,6 @@
     "ai": ""
   },
   {
-    "product_name": "GeoGebra",
-    "supplier_name": "GEOGEBRA GMBH",
-    "supplier_website": "https://www.geogebra.org/",
-    "version": "Free",
-    "framework": "2020.2",
-    "product_eligible_badge": "Assessed 2020",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
     "product_name": "Typing Tournament Online",
     "supplier_name": "EDALIVE",
     "supplier_website": "http://edalive.com",
@@ -740,16 +730,6 @@
     "ai": ""
   },
   {
-    "product_name": "Codemonkey",
-    "supplier_name": "JUNIOR ENGINEERS",
-    "supplier_website": "http://www.jnrengineers.com.au",
-    "version": "Free and Paid",
-    "framework": "2020.2",
-    "product_eligible_badge": "Assessed 2020",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
     "product_name": "Kami",
     "supplier_name": "KAMI LIMITED",
     "supplier_website": "https://www.kamiapp.com/",
@@ -757,16 +737,6 @@
     "framework": "2022.1",
     "product_eligible_badge": "Assessed 2022",
     "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
-    "product_name": "Soundtrap for Education",
-    "supplier_name": "MUSIC EDUCATION NETWORK",
-    "supplier_website": "http://www.musicednet.com",
-    "version": "Paid",
-    "framework": "2020.2",
-    "product_eligible_badge": "Assessed 2020",
-    "product_recognised_countries": "AU",
     "ai": ""
   },
   {
@@ -1180,6 +1150,16 @@
     "ai": ""
   },
   {
+    "product_name": "Schoolzine",
+    "supplier_name": "SCHOOLZINE PTY LTD",
+    "supplier_website": "http://schoolzine.com",
+    "version": "Paid",
+    "framework": "2023.1",
+    "product_eligible_badge": "Assessed 2023",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
     "product_name": "Education Perfect",
     "supplier_name": "EDUCATION PERFECT LIMITED",
     "supplier_website": "http://www.educationperfect.com",
@@ -1266,16 +1246,6 @@
     "version": "Paid",
     "framework": "2022.1",
     "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "SPAplatform",
-    "supplier_name": "SREAMS (ORCHARD DOWNS PTY. LTD.)",
-    "supplier_website": "http://www.spaplatform.com.au",
-    "version": "Paid",
-    "framework": "2020.1",
-    "product_eligible_badge": "Assessed 2020",
     "product_recognised_countries": "AU",
     "ai": ""
   },
@@ -1487,16 +1457,6 @@
     "framework": "2023.1",
     "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
-    "product_name": "VPass -Visitor Management System",
-    "supplier_name": "VPASS PTY LTD",
-    "supplier_website": "https://vpass.io",
-    "version": "Paid",
-    "framework": "2020.2",
-    "product_eligible_badge": "Assessed 2020",
-    "product_recognised_countries": "AU",
     "ai": ""
   },
   {
