@@ -64,10 +64,10 @@
     "supplier_name": "IMMERSEME LIMITED",
     "supplier_website": "https://immerseme.co/",
     "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
+    "framework": "2023.2",
+    "product_eligible_badge": "Assessed 2023",
+    "product_recognised_countries": "AU, NZ",
+    "ai": "AI Assessed"
   },
   {
     "product_name": "AccessIt Library",
@@ -1435,6 +1435,16 @@
     "supplier_website": "http://www.schoolinterviews.com.au",
     "version": "Paid",
     "framework": "2023.1",
+    "product_eligible_badge": "Assessed 2023",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "VisitUs Reception",
+    "supplier_name": "VISITUS RECEPTION PTY LTD",
+    "supplier_website": "https://visit-us.com",
+    "version": "Paid",
+    "framework": "2023.2",
     "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
