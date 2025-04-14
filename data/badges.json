@@ -40,6 +40,16 @@
     "ai": ""
   },
   {
+    "product_name": "Writing Legends",
+    "supplier_name": "3P LEARNING LIMITED",
+    "supplier_website": "http://www.3plearning.com",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
     "product_name": "Reading Eggs",
     "supplier_name": "3P LEARNING LIMITED",
     "supplier_website": "http://www.3plearning.com",
@@ -312,10 +322,10 @@
   {
     "product_name": "Zunia",
     "supplier_name": "EHG SERVICES PTY LTD",
-    "supplier_website": "http://www.educationhorizons.com",
+    "supplier_website": "https://www.educationhorizons.com/solutions/zunia",
     "version": "Paid",
-    "framework": "2021.2",
-    "product_eligible_badge": "Assessed 2021",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU",
     "ai": ""
   },
@@ -416,6 +426,16 @@
     "version": "Paid",
     "framework": "2022.1",
     "product_eligible_badge": "Assessed 2022",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "FILIT",
+    "supplier_name": "FILIT PTY LTD",
+    "supplier_website": "http://www.filit.com.au",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
