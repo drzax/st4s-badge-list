@@ -234,10 +234,10 @@
     "supplier_name": "JOHN WILEY & SONS AUSTRALIA, LTD",
     "supplier_website": "http://www.jacplus.com.au",
     "version": "Paid",
-    "framework": "2023.1",
-    "product_eligible_badge": "Assessed 2023",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": ""
+    "ai": "AI Assessed"
   },
   {
     "product_name": "Code Avengers",
@@ -600,16 +600,6 @@
     "ai": ""
   },
   {
-    "product_name": "Learning A-Z",
-    "supplier_name": "IG3 EDUCATION LTD",
-    "supplier_website": "http://www.ig3education.com.au",
-    "version": "Paid",
-    "framework": "2020.2",
-    "product_eligible_badge": "Assessed 2020",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
     "product_name": "STARS",
     "supplier_name": "IMPROMATION PTY LTD",
     "supplier_website": "http://impromation.com.au",
@@ -957,6 +947,16 @@
     "framework": "2022.1",
     "product_eligible_badge": "Assessed 2022",
     "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "MSP Photography",
+    "supplier_name": "MSP PHOTOGRAPHY PTY LTD",
+    "supplier_website": "https://www.msp.com.au/",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU",
     "ai": ""
   },
   {
@@ -1536,6 +1536,16 @@
     "version": "Free",
     "framework": "2021.2",
     "product_eligible_badge": "Assessed 2021",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Edusync",
+    "supplier_name": "WONDE PTY LTD",
+    "supplier_website": "http://wonde.com/au",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   }
