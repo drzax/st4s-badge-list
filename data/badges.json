@@ -240,6 +240,36 @@
     "ai": "AI Assessed"
   },
   {
+    "product_name": "learnON",
+    "supplier_name": "JOHN WILEY & SONS AUSTRALIA, LTD",
+    "supplier_website": "http://www.jacplus.com.au",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": "AI Assessed"
+  },
+  {
+    "product_name": "teachON",
+    "supplier_name": "JOHN WILEY & SONS AUSTRALIA, LTD",
+    "supplier_website": "http://www.jacplus.com.au",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": "AI Assessed"
+  },
+  {
+    "product_name": "Jacaranda School Management Portal (SMP)",
+    "supplier_name": "JOHN WILEY & SONS AUSTRALIA, LTD",
+    "supplier_website": "http://www.jacplus.com.au",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": "AI Assessed"
+  },
+  {
     "product_name": "Code Avengers",
     "supplier_name": "DIGITAL EDUCATION LIMITED",
     "supplier_website": "https://www.codeavengers.com",
@@ -687,6 +717,16 @@
     "framework": "2021.1",
     "product_eligible_badge": "Assessed 2021",
     "product_recognised_countries": "AU",
+    "ai": ""
+  },
+  {
+    "product_name": "IRIS Connect",
+    "supplier_name": "IRIS CONNECT (NZ) LIMITED",
+    "supplier_website": "https://www.irisconnect.co.nz/",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
   {
@@ -1283,11 +1323,11 @@
     "product_name": "Hero",
     "supplier_name": "HERO SOFTWARE FOR NSW SCHOOLS PTY LTD",
     "supplier_website": "https://our-hero.com",
-    "version": "Paid (Duo, Administrative Suite, Communications Suite, Premier)",
-    "framework": "2021.2",
-    "product_eligible_badge": "Assessed 2021",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": ""
+    "ai": "AI Assessed"
   },
   {
     "product_name": "Banqer",
@@ -1561,6 +1601,16 @@
   },
   {
     "product_name": "Edusync",
+    "supplier_name": "WONDE PTY LTD",
+    "supplier_website": "http://wonde.com/au",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "MyLogin",
     "supplier_name": "WONDE PTY LTD",
     "supplier_website": "http://wonde.com/au",
     "version": "Paid",
