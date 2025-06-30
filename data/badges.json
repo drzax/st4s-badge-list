@@ -840,6 +840,16 @@
     "ai": ""
   },
   {
+    "product_name": "Phonics Hero",
+    "supplier_name": "PHONICS HERO LTD",
+    "supplier_website": "http://www.phonicshero.com",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
     "product_name": "Kids Get Money",
     "supplier_name": "KIDS GET MONEY PTY LTD",
     "supplier_website": "https://kidsget.money",
@@ -1300,6 +1310,16 @@
     "ai": ""
   },
   {
+    "product_name": "Cool Kids Online",
+    "supplier_name": "MACQUARIE UNIVERSITY",
+    "supplier_website": "https://coolkids.org.au",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU",
+    "ai": ""
+  },
+  {
     "product_name": "Schoolzine",
     "supplier_name": "SCHOOLZINE PTY LTD",
     "supplier_website": "http://schoolzine.com",
@@ -1558,16 +1578,6 @@
     "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
     "ai": "AI Assessed"
-  },
-  {
-    "product_name": "MathsOnline",
-    "supplier_name": "MATHEMATICS.COM.AU PTY LTD",
-    "supplier_website": "https://www.mathsonline.com.au/",
-    "version": "Paid",
-    "framework": "2021.2",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
   },
   {
     "product_name": "ToucanTech",
