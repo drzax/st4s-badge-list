@@ -510,6 +510,16 @@
     "ai": ""
   },
   {
+    "product_name": "Goalhub",
+    "supplier_name": "GOALHUB PTY LTD",
+    "supplier_website": "http://www.goalhub.com",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU",
+    "ai": ""
+  },
+  {
     "product_name": "Typing Tournament Online",
     "supplier_name": "EDALIVE",
     "supplier_website": "http://edalive.com",
@@ -1283,6 +1293,16 @@
     "product_name": "EdSmart",
     "supplier_name": "CLOUD PAPER GROUP PTY LTD",
     "supplier_website": "https://edsmart.com/",
+    "version": "Paid",
+    "framework": "2023.1",
+    "product_eligible_badge": "Assessed 2023",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Okta Workforce Identity Cloud",
+    "supplier_name": "OKTA AUSTRALIA PTY LTD",
+    "supplier_website": "https://www.okta.com/au/workforce-identity/",
     "version": "Paid",
     "framework": "2023.1",
     "product_eligible_badge": "Assessed 2023",
