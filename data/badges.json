@@ -160,16 +160,6 @@
     "ai": ""
   },
   {
-    "product_name": "Box of Books",
-    "supplier_name": "BOX OF BOOKS PTY LIMITED",
-    "supplier_website": "http://www.boxofbooks.com.au",
-    "version": "Free",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
     "product_name": "School Stream",
     "supplier_name": "SCHOOL STREAM PTY. LTD.",
     "supplier_website": "http://www.schoolstream.com.au",
@@ -297,16 +287,6 @@
     "framework": "2022.1",
     "product_eligible_badge": "Assessed 2022",
     "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
-    "product_name": "Visitor Manager Central",
-    "supplier_name": "FUJIFILM UPSTREAM SOLUTIONS PTY LTD",
-    "supplier_website": "http://www.upstream.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
     "ai": ""
   },
   {
@@ -660,76 +640,6 @@
     "ai": ""
   },
   {
-    "product_name": "STARS",
-    "supplier_name": "IMPROMATION PTY LTD",
-    "supplier_website": "http://impromation.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "ATTENDiT",
-    "supplier_name": "IMPROMATION PTY LTD",
-    "supplier_website": "http://impromation.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "MARKiT",
-    "supplier_name": "IMPROMATION PTY LTD",
-    "supplier_website": "http://impromation.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "REPORTiT",
-    "supplier_name": "IMPROMATION PTY LTD",
-    "supplier_website": "http://impromation.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "PATtracker",
-    "supplier_name": "IMPROMATION PTY LTD",
-    "supplier_website": "http://impromation.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "NAPtracker",
-    "supplier_name": "IMPROMATION PTY LTD",
-    "supplier_website": "http://impromation.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "PORTALS",
-    "supplier_name": "IMPROMATION PTY LTD",
-    "supplier_website": "http://impromation.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
     "product_name": "SchoolBridge",
     "supplier_name": "INBOX DESIGN LIMITED",
     "supplier_website": "https://www.inboxdesign.co.nz",
@@ -808,6 +718,16 @@
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
+  },
+  {
+    "product_name": "MyMahi",
+    "supplier_name": "MYMAHI LTD",
+    "supplier_website": "http://www.mymahi.com",
+    "version": "Paid",
+    "framework": "2023.1",
+    "product_eligible_badge": "Assessed 2023",
+    "product_recognised_countries": "AU, NZ",
+    "ai": "AI not assessed"
   },
   {
     "product_name": "Symphony Math",
@@ -1600,16 +1520,6 @@
     "ai": ""
   },
   {
-    "product_name": "Teamgo Visitor Management",
-    "supplier_name": "TEAMGO PTY LTD",
-    "supplier_website": "http://www.teamgo.co",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
     "product_name": "Inquisitive",
     "supplier_name": "INQUISITIVE PTY LTD",
     "supplier_website": "https://www.inquisitive.com",
@@ -1670,16 +1580,6 @@
     "ai": ""
   },
   {
-    "product_name": "uEducateUs",
-    "supplier_name": "LINKED SUCCESS PTY LTD",
-    "supplier_website": "http://www.ueducateus.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
     "product_name": "School Interviews",
     "supplier_name": "VIRTUAL INDUSTRIES GROUP",
     "supplier_website": "http://www.schoolinterviews.com.au",
@@ -1696,6 +1596,16 @@
     "version": "Paid",
     "framework": "2023.2",
     "product_eligible_badge": "Assessed 2023",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "VisTab",
+    "supplier_name": "VISTAB LIMITED",
+    "supplier_website": "https://vistab.co.nz",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
@@ -1730,19 +1640,19 @@
     "ai": ""
   },
   {
-    "product_name": "Wonde Data Sync Platform",
+    "product_name": "Wonde Data Sync",
     "supplier_name": "WONDE PTY LTD",
-    "supplier_website": "http://wonde.com/au",
-    "version": "Free",
-    "framework": "2021.2",
-    "product_eligible_badge": "Assessed 2021",
+    "supplier_website": "https://www.wonde.com/au",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
   {
     "product_name": "Edusync",
     "supplier_name": "WONDE PTY LTD",
-    "supplier_website": "http://wonde.com/au",
+    "supplier_website": "https://www.wonde.com/au",
     "version": "Paid",
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
@@ -1752,7 +1662,7 @@
   {
     "product_name": "MyLogin",
     "supplier_name": "WONDE PTY LTD",
-    "supplier_website": "http://wonde.com/au",
+    "supplier_website": "https://www.wonde.com/au",
     "version": "Paid",
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
