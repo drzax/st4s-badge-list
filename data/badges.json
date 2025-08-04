@@ -594,9 +594,9 @@
     "supplier_name": "IG3 EDUCATION LTD",
     "supplier_website": "http://www.ig3education.com.au",
     "version": "Paid",
-    "framework": "2020.2",
-    "product_eligible_badge": "Assessed 2020",
-    "product_recognised_countries": "AU",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
   {
@@ -604,9 +604,9 @@
     "supplier_name": "IG3 EDUCATION LTD",
     "supplier_website": "http://www.ig3education.com.au",
     "version": "Paid",
-    "framework": "2020.2",
-    "product_eligible_badge": "Assessed 2020",
-    "product_recognised_countries": "AU",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
   {
@@ -614,9 +614,9 @@
     "supplier_name": "IG3 EDUCATION LTD",
     "supplier_website": "http://www.ig3education.com.au",
     "version": "Paid",
-    "framework": "2020.2",
-    "product_eligible_badge": "Assessed 2020",
-    "product_recognised_countries": "AU",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
   {
@@ -624,9 +624,9 @@
     "supplier_name": "IG3 EDUCATION LTD",
     "supplier_website": "http://www.ig3education.com.au",
     "version": "Paid",
-    "framework": "2020.2",
-    "product_eligible_badge": "Assessed 2020",
-    "product_recognised_countries": "AU",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
   {
@@ -634,9 +634,9 @@
     "supplier_name": "IG3 EDUCATION LTD",
     "supplier_website": "http://www.ig3education.com.au",
     "version": "Paid",
-    "framework": "2020.2",
-    "product_eligible_badge": "Assessed 2020",
-    "product_recognised_countries": "AU",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
   {
@@ -1130,6 +1130,16 @@
     "ai": ""
   },
   {
+    "product_name": "Alumnly",
+    "supplier_name": "ALUMNLY PTY LTD",
+    "supplier_website": "https://www.alumnly.com/",
+    "version": "Paid",
+    "framework": "2023.1",
+    "product_eligible_badge": "Assessed 2023",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
     "product_name": "OrbitNote",
     "supplier_name": "TEXTHELP PTY LTD",
     "supplier_website": "https://texthelp.com/",
@@ -1168,16 +1178,6 @@
     "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
     "ai": "AI Assessed"
-  },
-  {
-    "product_name": "ReadCloud",
-    "supplier_name": "READCLOUD LIMITED",
-    "supplier_website": "https://readcloud.com/",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
   },
   {
     "product_name": "Accelerated Reader",
