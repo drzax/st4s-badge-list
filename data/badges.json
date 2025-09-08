@@ -1090,6 +1090,16 @@
     "ai": ""
   },
   {
+    "product_name": "Vivedus",
+    "supplier_name": "VIVEDUS PTY LTD",
+    "supplier_website": "https://www.vivedus.com/",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": "AI not assessed"
+  },
+  {
     "product_name": "PM eCollection",
     "supplier_name": "CENGAGE LEARNING AUSTRALIA PTY LIMITED",
     "supplier_website": "http://pmecollection.com.au/",
@@ -1527,6 +1537,16 @@
     "framework": "2022.1",
     "product_eligible_badge": "Assessed 2022",
     "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Teamgo Visitor Management",
+    "supplier_name": "TEAMGO PTY LTD",
+    "supplier_website": "http://www.teamgo.co",
+    "version": "Paid",
+    "framework": "2021.1",
+    "product_eligible_badge": "Assessed 2021",
+    "product_recognised_countries": "AU",
     "ai": ""
   },
   {
