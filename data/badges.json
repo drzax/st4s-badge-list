@@ -160,6 +160,16 @@
     "ai": ""
   },
   {
+    "product_name": "Treering",
+    "supplier_name": "TREERING AUSTRALIA PTY LTD",
+    "supplier_website": "https://www.treering.com.au/",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": "AI Assessed"
+  },
+  {
     "product_name": "School Stream",
     "supplier_name": "SCHOOL STREAM PTY. LTD.",
     "supplier_website": "http://www.schoolstream.com.au",
@@ -500,53 +510,63 @@
     "ai": ""
   },
   {
-    "product_name": "Typing Tournament Online",
-    "supplier_name": "EDALIVE",
+    "product_name": "Typing Tournament",
+    "supplier_name": "ERINZAN PTY LTD",
     "supplier_website": "http://edalive.com",
     "version": "Paid",
-    "framework": "2021.2",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
   {
-    "product_name": "Baggin' the Dragon Maths Online",
-    "supplier_name": "EDALIVE",
+    "product_name": "Baggin' the Dragon Maths",
+    "supplier_name": "ERINZAN PTY LTD",
     "supplier_website": "http://edalive.com",
     "version": "Paid",
-    "framework": "2021.2",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
   {
-    "product_name": "Maths Invaders Online",
-    "supplier_name": "EDALIVE",
+    "product_name": "Spelling Force",
+    "supplier_name": "ERINZAN PTY LTD",
     "supplier_website": "http://edalive.com",
     "version": "Paid",
-    "framework": "2021.2",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
   {
-    "product_name": "Volcanic Panic Reading Success Online",
-    "supplier_name": "EDALIVE",
+    "product_name": "Maths Invaders",
+    "supplier_name": "ERINZAN PTY LTD",
     "supplier_website": "http://edalive.com",
     "version": "Paid",
-    "framework": "2021.2",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
   {
-    "product_name": "Words Rock Online",
-    "supplier_name": "EDALIVE",
+    "product_name": "Volcanic Panic Reading Success",
+    "supplier_name": "ERINZAN PTY LTD",
     "supplier_website": "http://edalive.com",
     "version": "Paid",
-    "framework": "2021.2",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Words Rock",
+    "supplier_name": "ERINZAN PTY LTD",
+    "supplier_website": "http://edalive.com",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
   {
@@ -926,6 +946,16 @@
     "version": "Paid",
     "framework": "2022.1",
     "product_eligible_badge": "Assessed 2022",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Instructive",
+    "supplier_name": "MATHS PATHWAY PTY LTD",
+    "supplier_website": "https://mathspathway.com/",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
