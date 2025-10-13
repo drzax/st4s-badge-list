@@ -1010,6 +1010,16 @@
     "ai": ""
   },
   {
+    "product_name": "MoneyTime",
+    "supplier_name": "MONEYTIME NZ LTD",
+    "supplier_website": "https://www.moneytimekids.com",
+    "version": "Free and Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
     "product_name": "MSP Photography",
     "supplier_name": "MSP PHOTOGRAPHY PTY LTD",
     "supplier_website": "https://www.msp.com.au/",
@@ -1524,10 +1534,10 @@
     "supplier_name": "SUNSHINE MULTIMEDIA (AUSTRALIA) PTY. LTD.",
     "supplier_website": "http://www.sunshinebooks.com.au",
     "version": "Paid",
-    "framework": "2021.2",
-    "product_eligible_badge": "Assessed 2021",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": ""
+    "ai": "AI not assessed"
   },
   {
     "product_name": "Superbly",
@@ -1748,5 +1758,15 @@
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
+  },
+  {
+    "product_name": "Writer's Toolbox",
+    "supplier_name": "WRITER’S TOOLBOX PTY LTD",
+    "supplier_website": "https://www.writerstoolbox.com/",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": "AI Assessed"
   }
 ]
