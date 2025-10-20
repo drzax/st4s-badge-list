@@ -100,6 +100,16 @@
     "ai": ""
   },
   {
+    "product_name": "SNA Toolbox",
+    "supplier_name": "SNA TOOLBOX PTY LTD",
+    "supplier_website": "https://www.snatoolbox.com",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
     "product_name": "QuickSmart",
     "supplier_name": "THE UNIVERSITY OF NEW ENGLAND",
     "supplier_website": "https://simerr.une.edu.au/quicksmart/",
@@ -126,6 +136,16 @@
     "version": "Free",
     "framework": "2023.1",
     "product_eligible_badge": "Assessed 2023",
+    "product_recognised_countries": "AU",
+    "ai": ""
+  },
+  {
+    "product_name": "SAM4Schools",
+    "supplier_name": "SAFETY ASSURANCE MANAGEMENT PTY LTD",
+    "supplier_website": "http://www.sam4schools.com.au",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU",
     "ai": ""
   },
@@ -1267,6 +1287,16 @@
     "framework": "2023.1",
     "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Auralia and Musition Cloud",
+    "supplier_name": "RISING SOFTWARE AUSTRALIA PTY LTD",
+    "supplier_website": "https://www.risingsoftware.com/cloud",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU",
     "ai": ""
   },
   {
