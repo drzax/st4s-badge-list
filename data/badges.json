@@ -734,10 +734,10 @@
     "supplier_name": "ITC PUBLICATIONS PTY LTD",
     "supplier_website": "https://itcthinkdrive.com.au/",
     "version": "Paid",
-    "framework": "2023.1",
-    "product_eligible_badge": "Assessed 2023",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": ""
+    "ai": "AI Assessed"
   },
   {
     "product_name": "IXL",
@@ -1587,6 +1587,16 @@
     "framework": "2023.1",
     "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU",
+    "ai": ""
+  },
+  {
+    "product_name": "Storyboard That",
+    "supplier_name": "CLEVER PROTOTYPES, LLC",
+    "supplier_website": "http://www.storyboardthat.com",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
   {
