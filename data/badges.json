@@ -530,6 +530,16 @@
     "ai": ""
   },
   {
+    "product_name": "Littlescribe",
+    "supplier_name": "LITTLESCRIBE PTY LTD",
+    "supplier_website": "https://www.littlescribe.com/",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
     "product_name": "Class Solver",
     "supplier_name": "CLASS SOLVER PTY LTD",
     "supplier_website": "http://www.ClassSolver.com",
@@ -707,6 +717,76 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "STARS",
+    "supplier_name": "IMPROMATION PTY LTD",
+    "supplier_website": "http://impromation.com.au",
+    "version": "Paid",
+    "framework": "2021.1",
+    "product_eligible_badge": "Assessed 2021",
+    "product_recognised_countries": "AU",
+    "ai": ""
+  },
+  {
+    "product_name": "ATTENDiT",
+    "supplier_name": "IMPROMATION PTY LTD",
+    "supplier_website": "http://impromation.com.au",
+    "version": "Paid",
+    "framework": "2021.1",
+    "product_eligible_badge": "Assessed 2021",
+    "product_recognised_countries": "AU",
+    "ai": ""
+  },
+  {
+    "product_name": "MARKiT",
+    "supplier_name": "IMPROMATION PTY LTD",
+    "supplier_website": "http://impromation.com.au",
+    "version": "Paid",
+    "framework": "2021.1",
+    "product_eligible_badge": "Assessed 2021",
+    "product_recognised_countries": "AU",
+    "ai": ""
+  },
+  {
+    "product_name": "REPORTiT",
+    "supplier_name": "IMPROMATION PTY LTD",
+    "supplier_website": "http://impromation.com.au",
+    "version": "Paid",
+    "framework": "2021.1",
+    "product_eligible_badge": "Assessed 2021",
+    "product_recognised_countries": "AU",
+    "ai": ""
+  },
+  {
+    "product_name": "PATtracker",
+    "supplier_name": "IMPROMATION PTY LTD",
+    "supplier_website": "http://impromation.com.au",
+    "version": "Paid",
+    "framework": "2021.1",
+    "product_eligible_badge": "Assessed 2021",
+    "product_recognised_countries": "AU",
+    "ai": ""
+  },
+  {
+    "product_name": "NAPtracker",
+    "supplier_name": "IMPROMATION PTY LTD",
+    "supplier_website": "http://impromation.com.au",
+    "version": "Paid",
+    "framework": "2021.1",
+    "product_eligible_badge": "Assessed 2021",
+    "product_recognised_countries": "AU",
+    "ai": ""
+  },
+  {
+    "product_name": "PORTALS",
+    "supplier_name": "IMPROMATION PTY LTD",
+    "supplier_website": "http://impromation.com.au",
+    "version": "Paid",
+    "framework": "2021.1",
+    "product_eligible_badge": "Assessed 2021",
+    "product_recognised_countries": "AU",
     "ai": ""
   },
   {
@@ -1526,6 +1606,16 @@
     "version": "Free and Paid (Banqer Primary, Banqer High)",
     "framework": "2022.1",
     "product_eligible_badge": "Assessed 2022",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "SmartLab",
+    "supplier_name": "EDUCATION SUPPORT PROGRAMMES PTY LTD",
+    "supplier_website": "http://www.mysmartlab.com.au",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
