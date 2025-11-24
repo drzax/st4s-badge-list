@@ -250,6 +250,16 @@
     "ai": ""
   },
   {
+    "product_name": "ECO",
+    "supplier_name": "CAMPION EDUCATION (AUST) PTY LTD",
+    "supplier_website": "http://www.campion.com.au",
+    "version": "Free",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
     "product_name": "ClickView",
     "supplier_name": "CLICKVIEW AUSTRALIA PTY LIMITED",
     "supplier_website": "http://www.clickview.com.au",
@@ -1230,16 +1240,6 @@
     "ai": ""
   },
   {
-    "product_name": "Padlet",
-    "supplier_name": "WALLWISHER INC",
-    "supplier_website": "https://padlet.com",
-    "version": "Paid",
-    "framework": "2023.1",
-    "product_eligible_badge": "Assessed 2023",
-    "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
     "product_name": "Paperly",
     "supplier_name": "PAPERLY PTY LTD",
     "supplier_website": "https://paperly.education",
@@ -1696,6 +1696,16 @@
     "version": "Paid",
     "framework": "2023.1",
     "product_eligible_badge": "Assessed 2023",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Stymie",
+    "supplier_name": "STYMIE PTY LTD",
+    "supplier_website": "http://about.stymie.com.au",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
