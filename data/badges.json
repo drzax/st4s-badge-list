@@ -120,6 +120,16 @@
     "ai": ""
   },
   {
+    "product_name": "Arithmagicians",
+    "supplier_name": "ARITHMAGICIANS LTD",
+    "supplier_website": "https://arithmagicians.com/",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
     "product_name": "Assistive Captions",
     "supplier_name": "ASSISTIVE DIGITAL PTY LTD",
     "supplier_website": "http://Assistivedigital.com.au",
@@ -464,9 +474,9 @@
     "supplier_name": "TEAM HQ PTY LTD",
     "supplier_website": "https://www.team-hq.com.au",
     "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
   {
@@ -537,6 +547,16 @@
     "framework": "2022.1",
     "product_eligible_badge": "Assessed 2022",
     "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Wellio",
+    "supplier_name": "WELLIO PTY LTD",
+    "supplier_website": "https://www.wellioeducation.com/",
+    "version": "Paid",
+    "framework": "2022.1",
+    "product_eligible_badge": "Assessed 2022",
+    "product_recognised_countries": "AU",
     "ai": ""
   },
   {
@@ -1706,6 +1726,16 @@
     "version": "Paid",
     "framework": "2023.1",
     "product_eligible_badge": "Assessed 2023",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Study Work Grow",
+    "supplier_name": "STUDY WORK GROW PTY LTD",
+    "supplier_website": "https://studyworkgrow.com",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
