@@ -164,8 +164,8 @@
     "supplier_name": "SCHOOL BYTES LEARNING PTY. LTD.",
     "supplier_website": "http://www.schoolbytes.education",
     "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU",
     "ai": ""
   },
@@ -426,6 +426,16 @@
     "version": "Paid",
     "framework": "2022.1",
     "product_eligible_badge": "Assessed 2022",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Decodable Readers Online Library",
+    "supplier_name": "DECODABLE READERS AUSTRALIA ONLINE PTY LTD",
+    "supplier_website": "https://www.decodablereadersaustralia.com.au",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
@@ -1663,6 +1673,16 @@
     "product_name": "Oliver",
     "supplier_name": "SOFTLINK AUSTRALIA PTY LTD",
     "supplier_website": "https://www.softlinkint.com/product/oliver/",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Sound Scouts",
+    "supplier_name": "SOUND SCOUTS HQ PTY LTD",
+    "supplier_website": "http://soundscouts.com.au",
     "version": "Paid",
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
