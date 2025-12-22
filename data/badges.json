@@ -240,16 +240,6 @@
     "ai": ""
   },
   {
-    "product_name": "Lumio (SMART Learning Suite)",
-    "supplier_name": "SMART TECHNOLOGIES APAC INC",
-    "supplier_website": "https://www.smarttech.com/en/education",
-    "version": "Paid (Single or Group Plan)",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
     "product_name": "MyConnect2",
     "supplier_name": "CAMPION EDUCATION (AUST) PTY LTD",
     "supplier_website": "http://www.campion.com.au",
@@ -494,8 +484,8 @@
     "supplier_name": "WHEELERS EPLATFORM LIMITED",
     "supplier_website": "https://www.eplatform.co/au",
     "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
@@ -760,76 +750,6 @@
     "ai": ""
   },
   {
-    "product_name": "STARS",
-    "supplier_name": "IMPROMATION PTY LTD",
-    "supplier_website": "http://impromation.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "ATTENDiT",
-    "supplier_name": "IMPROMATION PTY LTD",
-    "supplier_website": "http://impromation.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "MARKiT",
-    "supplier_name": "IMPROMATION PTY LTD",
-    "supplier_website": "http://impromation.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "REPORTiT",
-    "supplier_name": "IMPROMATION PTY LTD",
-    "supplier_website": "http://impromation.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "PATtracker",
-    "supplier_name": "IMPROMATION PTY LTD",
-    "supplier_website": "http://impromation.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "NAPtracker",
-    "supplier_name": "IMPROMATION PTY LTD",
-    "supplier_website": "http://impromation.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "PORTALS",
-    "supplier_name": "IMPROMATION PTY LTD",
-    "supplier_website": "http://impromation.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
     "product_name": "SchoolBridge",
     "supplier_name": "INBOX DESIGN LIMITED",
     "supplier_website": "https://www.inboxdesign.co.nz",
@@ -910,46 +830,6 @@
     "ai": "AI not assessed"
   },
   {
-    "product_name": "Symphony Math",
-    "supplier_name": "THE I.T. EDUCATION COMPANY AUSTRALIA PTY LTD",
-    "supplier_website": "http://www.itecau.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "Lexia Core",
-    "supplier_name": "THE I.T. EDUCATION COMPANY AUSTRALIA PTY LTD",
-    "supplier_website": "http://www.itecau.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "Lexia PowerUp",
-    "supplier_name": "THE I.T. EDUCATION COMPANY AUSTRALIA PTY LTD",
-    "supplier_website": "http://www.itecau.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "Reading Plus",
-    "supplier_name": "THE I.T. EDUCATION COMPANY AUSTRALIA PTY LTD",
-    "supplier_website": "http://www.itecau.com.au",
-    "version": "Paid",
-    "framework": "2021.1",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
     "product_name": "Kami",
     "supplier_name": "KAMI LIMITED",
     "supplier_website": "https://www.kamiapp.com/",
@@ -997,16 +877,6 @@
     "framework": "2023.1",
     "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
-    "product_name": "Cloudwork",
-    "supplier_name": "TWIN-K COMPUTERS PTY LTD",
-    "supplier_website": "http://www.studentnet.net",
-    "version": "Paid",
-    "framework": "2020.2",
-    "product_eligible_badge": "Assessed 2020",
-    "product_recognised_countries": "AU",
     "ai": ""
   },
   {
@@ -1817,6 +1687,16 @@
     "framework": "2022.1",
     "product_eligible_badge": "Assessed 2022",
     "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Edrolo",
+    "supplier_name": "TUTOR ON DEMAND PTY LTD",
+    "supplier_website": "http://edrolo.com.au",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU",
     "ai": ""
   },
   {
