@@ -120,6 +120,16 @@
     "ai": ""
   },
   {
+    "product_name": "Inspire – Learning with Diversity",
+    "supplier_name": "SRA INFORMATION TECHNOLOGY PTY LTD",
+    "supplier_website": "https://getinspire.com.au/",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU",
+    "ai": ""
+  },
+  {
     "product_name": "QuickSmart",
     "supplier_name": "THE UNIVERSITY OF NEW ENGLAND",
     "supplier_website": "https://simerr.une.edu.au/quicksmart/",
@@ -346,16 +356,6 @@
     "version": "Paid",
     "framework": "2022.1",
     "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
-    "product_name": "Coviu",
-    "supplier_name": "COVIU GLOBAL PTY. LTD.",
-    "supplier_website": "http://www.coviu.com",
-    "version": "Paid",
-    "framework": "2023.1",
-    "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
@@ -1000,16 +1000,6 @@
     "ai": ""
   },
   {
-    "product_name": "Kahoot! for Schools",
-    "supplier_name": "KAHOOT! ASA",
-    "supplier_website": "http://kahoot.com",
-    "version": "Free and Paid (Basic Free, Kahoot! Pro, Premium, Premium+ and EDU)",
-    "framework": "2021.2",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
     "product_name": "Makers Empire",
     "supplier_name": "MAKER'S EMPIRE PTY. LTD.",
     "supplier_website": "http://www.makersempire.com",
@@ -1076,6 +1066,16 @@
     "version": "Free",
     "framework": "2022.1",
     "product_eligible_badge": "Assessed 2022",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Education360",
+    "supplier_name": "9X5 CONSULTING PTY LTD",
+    "supplier_website": "http://www.education360.com.au",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
@@ -1186,6 +1186,16 @@
     "version": "Paid",
     "framework": "2023.1",
     "product_eligible_badge": "Assessed 2023",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Our Futures",
+    "supplier_name": "OUR FUTURES INSTITUTE LTD",
+    "supplier_website": "https://ourfuturesinstitute.org.au/",
+    "version": "Free and Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
@@ -1330,16 +1340,6 @@
     "ai": "AI Assessed"
   },
   {
-    "product_name": "Accelerated Reader",
-    "supplier_name": "RENAISSANCE LEARNING AUSTRALIA PTY LTD",
-    "supplier_website": "https://www.renaissance.com.au/",
-    "version": "Paid",
-    "framework": "2021.2",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
     "product_name": "myON",
     "supplier_name": "RENAISSANCE LEARNING AUSTRALIA PTY LTD",
     "supplier_website": "https://www.renaissance.com.au/",
@@ -1347,16 +1347,6 @@
     "framework": "2022.1",
     "product_eligible_badge": "Assessed 2022",
     "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
-    "product_name": "STAR Assessment",
-    "supplier_name": "RENAISSANCE LEARNING AUSTRALIA PTY LTD",
-    "supplier_website": "https://www.renaissance.com.au/",
-    "version": "Paid",
-    "framework": "2021.2",
-    "product_eligible_badge": "Assessed 2021",
-    "product_recognised_countries": "AU",
     "ai": ""
   },
   {
