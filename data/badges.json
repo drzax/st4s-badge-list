@@ -290,6 +290,16 @@
     "ai": ""
   },
   {
+    "product_name": "Musical Futures International",
+    "supplier_name": "MUSICAL FUTURES INTERNATIONAL INC",
+    "supplier_website": "http://musicalfuturesinternational.org",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": "AI Assessed"
+  },
+  {
     "product_name": "ClickView",
     "supplier_name": "CLICKVIEW AUSTRALIA PTY LIMITED",
     "supplier_website": "http://www.clickview.com.au",
@@ -1190,7 +1200,7 @@
     "ai": ""
   },
   {
-    "product_name": "Our Futures",
+    "product_name": "OurFutures",
     "supplier_name": "OUR FUTURES INSTITUTE LTD",
     "supplier_website": "https://ourfuturesinstitute.org.au/",
     "version": "Free and Paid",
@@ -1468,16 +1478,6 @@
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": "AI Assessed"
-  },
-  {
-    "product_name": "EdPotential",
-    "supplier_name": "EDUCATION PERFECT LIMITED",
-    "supplier_website": "http://www.educationperfect.com",
-    "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU, NZ",
-    "ai": ""
   },
   {
     "product_name": "Essential Assessment (by Essential Assessment Pty Ltd)",
