@@ -7,7 +7,7 @@
     "framework": "2023.2",
     "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "Mathletics",
@@ -87,7 +87,7 @@
     "framework": "2023.2",
     "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "AccessIt Library",
@@ -147,7 +147,7 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "Arithmagicians",
@@ -227,7 +227,7 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "School Stream",
@@ -297,7 +297,7 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "Class Creator",
@@ -327,7 +327,7 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "learnON",
@@ -337,7 +337,7 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "teachON",
@@ -347,7 +347,7 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "Jacaranda School Management Portal (SMP)",
@@ -357,7 +357,7 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "Code Avengers",
@@ -467,7 +467,17 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
+  },
+  {
+    "product_name": "Funnel",
+    "supplier_name": "DIGISTORM GROUP PTY LTD",
+    "supplier_website": "https://www.digistorm.com/au/products/funnel",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
   },
   {
     "product_name": "Digital Literacy Licence",
@@ -507,7 +517,7 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "Clipboard",
@@ -527,7 +537,7 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "Edsby",
@@ -767,7 +777,7 @@
     "framework": "2023.2",
     "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "Schooled Elections Manager",
@@ -787,7 +797,7 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "Wingaru Kids",
@@ -887,7 +897,7 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "IXL",
@@ -928,6 +938,16 @@
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
+  },
+  {
+    "product_name": "aXcelerate",
+    "supplier_name": "THE VERNER-MACKAY GROUP PTY LTD",
+    "supplier_website": "http://axcelerate.com.au",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU",
+    "ai": "AI not assessed"
   },
   {
     "product_name": "Kami",
@@ -1148,6 +1168,16 @@
     "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
+  },
+  {
+    "product_name": "Canva for Education",
+    "supplier_name": "CANVA PTY LTD",
+    "supplier_website": "https://www.canva.com/education/schools/",
+    "version": "Free",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": "AI Assessed"
   },
   {
     "product_name": "Edpuzzle",
@@ -1387,7 +1417,7 @@
     "framework": "2023.2",
     "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "myON",
@@ -1437,7 +1467,7 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "SCISdata",
@@ -1517,7 +1547,7 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "Essential Assessment (by Essential Assessment Pty Ltd)",
@@ -1528,6 +1558,16 @@
     "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU",
     "ai": ""
+  },
+  {
+    "product_name": "Scribo Writing",
+    "supplier_name": "SCRIBO HOLDINGS PTE LTD",
+    "supplier_website": "http://www.scribolearning.com",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": "AI assessed"
   },
   {
     "product_name": "Seesaw",
@@ -1587,7 +1627,7 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "Banqer",
@@ -1607,16 +1647,6 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
-    "product_name": "Bloum",
-    "supplier_name": "BLOUM PTY LTD",
-    "supplier_website": "https://bloum.ai",
-    "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU,NZ",
     "ai": ""
   },
   {
@@ -1647,7 +1677,7 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "Steplab",
@@ -1817,7 +1847,7 @@
     "framework": "2023.2",
     "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "Toddle",
@@ -1827,7 +1857,7 @@
     "framework": "2023.2",
     "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   },
   {
     "product_name": "ToucanTech",
@@ -1957,6 +1987,6 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": "AI Assessed"
+    "ai": "AI assessed"
   }
 ]
