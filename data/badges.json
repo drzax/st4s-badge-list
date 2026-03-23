@@ -90,16 +90,6 @@
     "ai": "AI assessed"
   },
   {
-    "product_name": "AccessIt Library",
-    "supplier_name": "ACCESS-IT SOFTWARE LIMITED",
-    "supplier_website": "https://accessitlibrary.com/",
-    "version": "Paid",
-    "framework": "2023.1",
-    "product_eligible_badge": "Assessed 2023",
-    "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
     "product_name": "Pathways for Schools",
     "supplier_name": "ACTIV8 TECHNOLOGIES PTY. LTD.",
     "supplier_website": "https://pathwayscloud.com",
@@ -230,14 +220,14 @@
     "ai": "AI assessed"
   },
   {
-    "product_name": "School Stream",
-    "supplier_name": "SCHOOL STREAM PTY. LTD.",
-    "supplier_website": "http://www.schoolstream.com.au",
+    "product_name": "Assessing Writing in Australia",
+    "supplier_name": "NO MORE MARKING LTD.",
+    "supplier_website": "https://www.nomoremarking.com/",
     "version": "Paid",
-    "framework": "2023.1",
-    "product_eligible_badge": "Assessed 2023",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": ""
+    "ai": "AI assessed (Excluding speech to text functionality)"
   },
   {
     "product_name": "Britannica School K-12",
@@ -268,6 +258,16 @@
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
+  },
+  {
+    "product_name": "Lumio",
+    "supplier_name": "SMART TECHNOLOGIES APAC INC",
+    "supplier_website": "https://www.smarttech.com/en/education",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": "AI assessed"
   },
   {
     "product_name": "MyConnect2",
@@ -680,6 +680,16 @@
     "ai": ""
   },
   {
+    "product_name": "Destiny Library Manager",
+    "supplier_name": "FOLLETT SOFTWARE - JAMES BENNETT",
+    "supplier_website": "https://follettsoftware.com/",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU",
+    "ai": "AI not assessed"
+  },
+  {
     "product_name": "Littlescribe",
     "supplier_name": "LITTLESCRIBE PTY LTD",
     "supplier_website": "https://www.littlescribe.com/",
@@ -920,16 +930,6 @@
     "ai": ""
   },
   {
-    "product_name": "ACER Online Assessment and Reporting Platform (OARS)",
-    "supplier_name": "AUSTRALIAN COUNCIL FOR EDUCATION RESEARCH LIMITED",
-    "supplier_website": "http://www.acer.org",
-    "version": "Paid",
-    "framework": "2023.1",
-    "product_eligible_badge": "Assessed 2023",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
     "product_name": "Trybooking",
     "supplier_name": "TRYBOOKING PTY LTD",
     "supplier_website": "http://www.trybooking.com",
@@ -1020,13 +1020,13 @@
     "ai": ""
   },
   {
-    "product_name": "Pivot",
+    "product_name": "Pivot Professional Learning",
     "supplier_name": "PIVOT PROFESSIONAL LEARNING PTY LTD",
     "supplier_website": "https://www.pivotpl.com/",
     "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
   {
@@ -1060,14 +1060,14 @@
     "ai": ""
   },
   {
-    "product_name": "Maestro",
-    "supplier_name": "ANALYTICS FOR SCHOOLS PTY LTD",
-    "supplier_website": "http://analyticsforschools.com.au",
-    "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU",
-    "ai": ""
+    "product_name": "Kahoot! EDU",
+    "supplier_name": "KAHOOT! ASA",
+    "supplier_website": "http://kahoot.com",
+    "version": "Free and Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": "AI assessed"
   },
   {
     "product_name": "Makers Empire",
@@ -1086,16 +1086,6 @@
     "version": "Paid",
     "framework": "2022.1",
     "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "SmartSuite Library",
-    "supplier_name": "FUNCTIONAL SOLUTIONS INTERNATIONAL PTY LTD",
-    "supplier_website": "https://www.functionalsolutions.com.au/tv4education",
-    "version": "Paid",
-    "framework": "2023.1",
-    "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU",
     "ai": ""
   },
@@ -1330,36 +1320,6 @@
     "ai": "AI not assessed"
   },
   {
-    "product_name": "PM eCollection",
-    "supplier_name": "CENGAGE LEARNING AUSTRALIA PTY LIMITED",
-    "supplier_website": "http://pmecollection.com.au/",
-    "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
-    "product_name": "Nelson MindTap",
-    "supplier_name": "CENGAGE LEARNING AUSTRALIA PTY LIMITED",
-    "supplier_website": "http://pmecollection.com.au/",
-    "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
-    "product_name": "NelsonNet",
-    "supplier_name": "CENGAGE LEARNING AUSTRALIA PTY LIMITED",
-    "supplier_website": "http://pmecollection.com.au/",
-    "version": "Paid",
-    "framework": "2023.1",
-    "product_eligible_badge": "Assessed 2023",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
     "product_name": "Pixevety",
     "supplier_name": "PIXEVETY PTY LTD",
     "supplier_website": "https://www.pixevety.com",
@@ -1410,32 +1370,12 @@
     "ai": "AI assessed"
   },
   {
-    "product_name": "Quizizz",
-    "supplier_name": "QUIZIZZ INC.",
-    "supplier_website": "https://quizizz.com",
-    "version": "Paid",
-    "framework": "2023.2",
-    "product_eligible_badge": "Assessed 2023",
-    "product_recognised_countries": "AU, NZ",
-    "ai": "AI assessed"
-  },
-  {
     "product_name": "myON",
     "supplier_name": "RENAISSANCE LEARNING AUSTRALIA PTY LTD",
     "supplier_website": "https://www.renaissance.com.au/",
     "version": "Paid",
     "framework": "2022.1",
     "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
-    "product_name": "EdSmart",
-    "supplier_name": "CLOUD PAPER GROUP PTY LTD",
-    "supplier_website": "https://edsmart.com/",
-    "version": "Paid",
-    "framework": "2023.1",
-    "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
@@ -1580,12 +1520,12 @@
     "ai": ""
   },
   {
-    "product_name": "Xuno",
+    "product_name": "Xuno Suite",
     "supplier_name": "SEMAPHORE CONSULTING PTY LTD",
     "supplier_website": "http://xuno.com.au",
     "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
@@ -1633,9 +1573,9 @@
     "product_name": "Banqer",
     "supplier_name": "BANQER LIMITED",
     "supplier_website": "https://primary.banqer.co/au/",
-    "version": "Free and Paid (Banqer Primary, Banqer High)",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
+    "version": "Free",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
@@ -1790,16 +1730,6 @@
     "ai": ""
   },
   {
-    "product_name": "Symphony",
-    "supplier_name": "HIGH RESOLVES AUSTRALIA PTY LTD",
-    "supplier_website": "http://learningnetwork.com.au",
-    "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
     "product_name": "Edrolo",
     "supplier_name": "TUTOR ON DEMAND PTY LTD",
     "supplier_website": "http://edrolo.com.au",
@@ -1817,6 +1747,26 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "The Engagement Platform",
+    "supplier_name": "TEP SERVICES LIMITED",
+    "supplier_website": "http://tep.uk",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Tes Learning Pathways",
+    "supplier_name": "TES GLOBAL PTY LTD",
+    "supplier_website": "https://www.tes.com",
+    "version": "Paid",
+    "framework": "2023.1",
+    "product_eligible_badge": "Assessed 2023",
+    "product_recognised_countries": "AU",
     "ai": ""
   },
   {
@@ -1838,16 +1788,6 @@
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
-  },
-  {
-    "product_name": "Creative Cloud K-12",
-    "supplier_name": "ADOBE",
-    "supplier_website": "https://www.adobe.com",
-    "version": "Paid",
-    "framework": "2023.2",
-    "product_eligible_badge": "Assessed 2023",
-    "product_recognised_countries": "AU, NZ",
-    "ai": "AI assessed"
   },
   {
     "product_name": "Toddle",
@@ -1906,16 +1846,6 @@
     "version": "Paid",
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
-    "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
-    "product_name": "Vivi",
-    "supplier_name": "VIVI INTERNATIONAL PTY LTD",
-    "supplier_website": "http://www.vivi.io",
-    "version": "Paid",
-    "framework": "2023.1",
-    "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
