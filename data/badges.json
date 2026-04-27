@@ -291,11 +291,11 @@
   },
   {
     "product_name": "ClickView",
-    "supplier_name": "CLICKVIEW AUSTRALIA PTY LIMITED",
+    "supplier_name": "CLICKVIEW AUSTRALIA PTY LTD",
     "supplier_website": "http://www.clickview.com.au",
     "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
