@@ -400,6 +400,16 @@
     "ai": ""
   },
   {
+    "product_name": "CurricuLLM",
+    "supplier_name": "CURRICULLM PTY LTD",
+    "supplier_website": "http://curricullm.com",
+    "version": "Free & Paid",
+    "framework": "2025.1",
+    "product_eligible_badge": "Assessed 2025",
+    "product_recognised_countries": "AU, NZ",
+    "ai": "AI assessed (excluding speech-to-text and individual student analytics)"
+  },
+  {
     "product_name": "SIMON Learning and School Administration",
     "supplier_name": "SIMON (DOBCEL)",
     "supplier_website": "https://simonschools.net/en-au/simon-learning-and-student-administration",
@@ -797,16 +807,6 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "Skodel",
-    "supplier_name": "SKODEL TECHNOLOGY PTY LIMITED",
-    "supplier_website": "http://www.skodel.com",
-    "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
   {
@@ -1654,8 +1654,8 @@
     "supplier_name": "STEPLAB LTD",
     "supplier_website": "https://steplab.co/",
     "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
+    "framework": "2025.1",
+    "product_eligible_badge": "Assessed 2025",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
