@@ -714,8 +714,8 @@
     "supplier_name": "CLASS SOLVER PTY LTD",
     "supplier_website": "http://www.ClassSolver.com",
     "version": "Paid",
-    "framework": "2023.1",
-    "product_eligible_badge": "Assessed 2023",
+    "framework": "2025.1",
+    "product_eligible_badge": "Assessed 2025",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
@@ -1007,6 +1007,16 @@
     "framework": "2023.1",
     "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Studentnet Cloudwork",
+    "supplier_name": "TWIN-K COMPUTERS PTY LTD T/A STUDENTNET",
+    "supplier_website": "https://cloudwork.id/",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU",
     "ai": ""
   },
   {
