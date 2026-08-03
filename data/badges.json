@@ -100,12 +100,22 @@
     "ai": ""
   },
   {
+    "product_name": "AccessIt Library",
+    "supplier_name": "ACCESS-IT SOFTWARE LIMITED",
+    "supplier_website": "https://accessitlibrary.com/",
+    "version": "Paid",
+    "framework": "2023.1",
+    "product_eligible_badge": "Assessed 2023",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
     "product_name": "Pathways for Schools",
-    "supplier_name": "ACTIV8 TECHNOLOGIES PTY. LTD.",
+    "supplier_name": "ACTIV8 TECHNOLOGIES PTY LTD",
     "supplier_website": "https://pathwayscloud.com",
     "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
@@ -630,16 +640,6 @@
     "ai": ""
   },
   {
-    "product_name": "WillowSoft Schools Platform",
-    "supplier_name": "WILLOWSOFT PTY LTD",
-    "supplier_website": "http://www.willowsoft.com.au",
-    "version": "Paid",
-    "framework": "2024.1",
-    "product_eligible_badge": "Assessed 2024",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
     "product_name": "Schoolbox",
     "supplier_name": "SCHOOLBOX PTY LTD",
     "supplier_website": "https://schoolbox.com.au/",
@@ -880,6 +880,16 @@
     "ai": ""
   },
   {
+    "product_name": "Impact Assessment",
+    "supplier_name": "IMPACT ASSESSMENT PTY LTD",
+    "supplier_website": "http://impactassessment.org.au",
+    "version": "Paid",
+    "framework": "2025.1",
+    "product_eligible_badge": "Assessed 2025",
+    "product_recognised_countries": "AU",
+    "ai": ""
+  },
+  {
     "product_name": "SchoolBridge",
     "supplier_name": "INBOX DESIGN LIMITED",
     "supplier_website": "https://www.inboxdesign.co.nz",
@@ -930,13 +940,13 @@
     "ai": ""
   },
   {
-    "product_name": "Trybooking",
-    "supplier_name": "TRYBOOKING PTY LTD",
-    "supplier_website": "http://www.trybooking.com",
-    "version": "Free and Paid",
-    "framework": "2024.1",
-    "product_eligible_badge": "Assessed 2024",
-    "product_recognised_countries": "AU, NZ",
+    "product_name": "ACER Online Assessment and Reporting Platform (OARS)",
+    "supplier_name": "AUSTRALIAN COUNCIL FOR EDUCATION RESEARCH LIMITED",
+    "supplier_website": "http://www.acer.org",
+    "version": "Paid",
+    "framework": "2023.1",
+    "product_eligible_badge": "Assessed 2023",
+    "product_recognised_countries": "AU",
     "ai": ""
   },
   {
@@ -1030,7 +1040,7 @@
     "ai": ""
   },
   {
-    "product_name": "Kudos Kids & Co",
+    "product_name": "Kudos Kids and Co",
     "supplier_name": "KUDOS KIDS & CO PTY LTD",
     "supplier_website": "https://kudoskidsandco.com.au",
     "version": "Paid",
@@ -1140,7 +1150,7 @@
     "ai": ""
   },
   {
-    "product_name": "Inform & Empower",
+    "product_name": "Inform and Empower",
     "supplier_name": "INFORM & EMPOWER PTY LTD",
     "supplier_website": "https://www.informandempower.com.au/",
     "version": "Paid",
@@ -1176,16 +1186,6 @@
     "version": "Paid",
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
-    "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
-    "product_name": "Matific",
-    "supplier_name": "SLATE SCIENCE OPERATIONS PTY LTD",
-    "supplier_website": "https://www.matific.com",
-    "version": "Paid",
-    "framework": "2023.1",
-    "product_eligible_badge": "Assessed 2023",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
@@ -1400,6 +1400,26 @@
     "ai": "AI not assessed"
   },
   {
+    "product_name": "Pearson Places",
+    "supplier_name": "PEARSON AUSTRALIA GROUP PTY LTD",
+    "supplier_website": "https://www.pearsonplaces.com.au/",
+    "version": "Free and Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Q-interactive",
+    "supplier_name": "PEARSON AUSTRALIA GROUP PTY LTD",
+    "supplier_website": "https://www.pearsonplaces.com.au/",
+    "version": "Paid",
+    "framework": "2025.1",
+    "product_eligible_badge": "Assessed 2025",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
     "product_name": "Studitory",
     "supplier_name": "STUDITORY PTY LTD",
     "supplier_website": "http://studitory.app",
@@ -1484,10 +1504,10 @@
     "supplier_name": "RENAISSANCE LEARNING AUSTRALIA PTY LTD",
     "supplier_website": "https://www.renaissance.com.au/",
     "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
+    "framework": "2025.1",
+    "product_eligible_badge": "Assessed 2025",
     "product_recognised_countries": "AU, NZ",
-    "ai": ""
+    "ai": "AI not assessed"
   },
   {
     "product_name": "Nearpod",
@@ -1497,7 +1517,17 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
-    "ai": ""
+    "ai": "AI not assessed"
+  },
+  {
+    "product_name": "Accelerated Reader and STAR Assessment",
+    "supplier_name": "RENAISSANCE LEARNING AUSTRALIA PTY LTD",
+    "supplier_website": "https://www.renaissance.com.au/",
+    "version": "​​Paid​",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": "AI not assessed"
   },
   {
     "product_name": "Auralia and Musition Cloud",
@@ -1530,9 +1560,9 @@
     "ai": "AI assessed"
   },
   {
-    "product_name": "SCISdata",
+    "product_name": "SCIS Data",
     "supplier_name": "EDUCATION SERVICES AUSTRALIA LIMITED",
-    "supplier_website": "https://www.scisdata.com/",
+    "supplier_website": "https://www.esa.edu.au/",
     "version": "Paid",
     "framework": "2023.1",
     "product_eligible_badge": "Assessed 2023",
@@ -1540,13 +1570,13 @@
     "ai": ""
   },
   {
-    "product_name": "MyFuture",
+    "product_name": "English Language Learning for Indigenous Children",
     "supplier_name": "EDUCATION SERVICES AUSTRALIA LIMITED",
-    "supplier_website": "https://www.scisdata.com/",
+    "supplier_website": "https://www.esa.edu.au/",
     "version": "Free",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU, NZ",
+    "framework": "2025.1",
+    "product_eligible_badge": "Assessed 2025",
+    "product_recognised_countries": "AU",
     "ai": ""
   },
   {
@@ -1610,7 +1640,7 @@
     "ai": "AI assessed"
   },
   {
-    "product_name": "Essential Assessment (by Essential Assessment Pty Ltd)",
+    "product_name": "Essential Assessment",
     "supplier_name": "EDUCATION PERFECT LIMITED",
     "supplier_website": "http://www.educationperfect.com",
     "version": "Paid",
