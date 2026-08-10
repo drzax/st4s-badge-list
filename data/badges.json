@@ -470,16 +470,6 @@
     "ai": ""
   },
   {
-    "product_name": "Nurture",
-    "supplier_name": "JUMPAGRADE TECHNOLOGY LTD",
-    "supplier_website": "http://www.gonurture.com",
-    "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
     "product_name": "Scriibi",
     "supplier_name": "MAPS WRITING PTY LTD",
     "supplier_website": "http://scriibi.com",
@@ -664,16 +654,6 @@
     "supplier_name": "FIREFLY EDUCATION PTY LTD",
     "supplier_website": "https://www.fireflyeducation.com.au",
     "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
-    "product_name": "Security Awareness and Training Service",
-    "supplier_name": "FORTINET AUSTRALIA PTY LTD",
-    "supplier_website": "https://www.fortinet.com/training/security-awareness-training/educationedition-%20australia",
-    "version": "Free",
     "framework": "2022.1",
     "product_eligible_badge": "Assessed 2022",
     "product_recognised_countries": "AU, NZ",
@@ -1260,16 +1240,6 @@
     "ai": ""
   },
   {
-    "product_name": "Edpuzzle",
-    "supplier_name": "EDPUZZLE, INC.",
-    "supplier_website": "http://www.edpuzzle.com",
-    "version": "Free and Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
     "product_name": "MoneyTime",
     "supplier_name": "MONEYTIME NZ LTD",
     "supplier_website": "https://www.moneytimekids.com",
@@ -1371,13 +1341,13 @@
   },
   {
     "product_name": "Passtab",
-    "supplier_name": "INVISION MARKETING SERVICES",
+    "supplier_name": "INVISION MARKETING SERVICES PTY LTD",
     "supplier_website": "http://passtab.com",
     "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
+    "framework": "2025.1",
+    "product_eligible_badge": "Assessed 2025",
     "product_recognised_countries": "AU, NZ",
-    "ai": ""
+    "ai": "Not assessed"
   },
   {
     "product_name": "My School Connect",
