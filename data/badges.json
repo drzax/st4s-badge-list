@@ -670,6 +670,16 @@
     "ai": ""
   },
   {
+    "product_name": "Grow the Code",
+    "supplier_name": "SMART KIDS EDUCATION LTD",
+    "supplier_website": "https://growthecode.org/",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
     "product_name": "Destiny Library Manager",
     "supplier_name": "FOLLETT SOFTWARE - JAMES BENNETT",
     "supplier_website": "https://follettsoftware.com/",
@@ -694,6 +704,36 @@
     "supplier_name": "CLASS SOLVER PTY LTD",
     "supplier_website": "http://www.ClassSolver.com",
     "version": "Paid",
+    "framework": "2025.1",
+    "product_eligible_badge": "Assessed 2025",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Scholastic Literacy Pro",
+    "supplier_name": "SCHOLASTIC AUSTRALIA PTY LTD",
+    "supplier_website": "http://www.scholastic.com.au",
+    "version": "Paid",
+    "framework": "2025.1",
+    "product_eligible_badge": "Assessed 2025",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Scholastic PR1ME Math Pro",
+    "supplier_name": "SCHOLASTIC AUSTRALIA PTY LTD",
+    "supplier_website": "http://www.scholastic.com.au",
+    "version": "Paid",
+    "framework": "2025.1",
+    "product_eligible_badge": "Assessed 2025",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Scholastic Learning Zone",
+    "supplier_name": "SCHOLASTIC AUSTRALIA PTY LTD",
+    "supplier_website": "http://www.scholastic.com.au",
+    "version": "​​Paid",
     "framework": "2025.1",
     "product_eligible_badge": "Assessed 2025",
     "product_recognised_countries": "AU, NZ",
@@ -1170,6 +1210,16 @@
     "ai": ""
   },
   {
+    "product_name": "Teacher's Buddy",
+    "supplier_name": "TEACHER'S BUDDY PTY LTD",
+    "supplier_website": "https://www.teachersbuddy.com",
+    "version": "Free & Paid",
+    "framework": "2025.1",
+    "product_eligible_badge": "Assessed 2025",
+    "product_recognised_countries": "AU, NZ",
+    "ai": "AI assessed"
+  },
+  {
     "product_name": "Clever",
     "supplier_name": "CLEVER INC",
     "supplier_website": "http://www.clever.com",
@@ -1274,6 +1324,26 @@
     "supplier_name": "ESSENTIAL RESOURCES EDUCATIONAL PUBLISHERS LTD",
     "supplier_website": "https://www.iugoplanner.com/",
     "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "Boardmaker",
+    "supplier_name": "TOBII DYNAVOX PTY LTD",
+    "supplier_website": "https://www.tobiidynavox.com",
+    "version": "Paid",
+    "framework": "2025.1",
+    "product_eligible_badge": "Assessed 2025",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "TD Snap",
+    "supplier_name": "TOBII DYNAVOX PTY LTD",
+    "supplier_website": "https://www.tobiidynavox.com",
+    "version": "​​Paid",
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
