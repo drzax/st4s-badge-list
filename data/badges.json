@@ -190,6 +190,16 @@
     "ai": ""
   },
   {
+    "product_name": "Attekus",
+    "supplier_name": "ATTEKUS PTY LTD",
+    "supplier_website": "http://www.attekus.com",
+    "version": "Paid",
+    "framework": "2025.1",
+    "product_eligible_badge": "Assessed 2025",
+    "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
     "product_name": "My Profile Page (Australian Fundraising)",
     "supplier_name": "BLC INTERNATIONAL PTY LTD (AUSTRALIAN FUNDRAISING)",
     "supplier_website": "http://www.australianfundraising.com.au",
@@ -827,6 +837,16 @@
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
+    "ai": ""
+  },
+  {
+    "product_name": "iSeeLive",
+    "supplier_name": "ISEE VC PTY LTD",
+    "supplier_website": "http://iseelive.com",
+    "version": "Paid",
+    "framework": "2024.1",
+    "product_eligible_badge": "Assessed 2024",
+    "product_recognised_countries": "AU",
     "ai": ""
   },
   {
@@ -1671,16 +1691,6 @@
   },
   {
     "product_name": "Cool Kids Online",
-    "supplier_name": "MACQUARIE UNIVERSITY",
-    "supplier_website": "https://coolkids.org.au",
-    "version": "Paid",
-    "framework": "2024.1",
-    "product_eligible_badge": "Assessed 2024",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
-    "product_name": "My Mind Check",
     "supplier_name": "MACQUARIE UNIVERSITY",
     "supplier_website": "https://coolkids.org.au",
     "version": "Paid",
