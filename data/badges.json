@@ -93,7 +93,7 @@
     "product_name": "Pico Coding",
     "supplier_name": "KINETIC DIGITAL PTY LTD",
     "supplier_website": "https://picocoding.com",
-    "version": "Free & Paid",
+    "version": "Free and Paid",
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
@@ -260,16 +260,6 @@
     "ai": ""
   },
   {
-    "product_name": "Treering",
-    "supplier_name": "TREERING AUSTRALIA PTY LTD",
-    "supplier_website": "https://www.treering.com.au/",
-    "version": "Paid",
-    "framework": "2024.1",
-    "product_eligible_badge": "Assessed 2024",
-    "product_recognised_countries": "AU, NZ",
-    "ai": "AI assessed"
-  },
-  {
     "product_name": "Assessing Writing in Australia",
     "supplier_name": "NO MORE MARKING LTD.",
     "supplier_website": "https://www.nomoremarking.com/",
@@ -283,7 +273,7 @@
     "product_name": "Brisk Teaching, Brisk Boost, Brisk Extension, and Brisk Next",
     "supplier_name": "BRISK LABS CORP",
     "supplier_website": "https://www.briskteaching.com/",
-    "version": "Free & Paid",
+    "version": "Free and Paid",
     "framework": "2024.1",
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
@@ -430,16 +420,6 @@
     "ai": ""
   },
   {
-    "product_name": "Infiniti",
-    "supplier_name": "CONCORD AUSTRALIA PTY LTD",
-    "supplier_website": "http://www.concordinfiniti.com",
-    "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
     "product_name": "Award Force",
     "supplier_name": "CREATIVE FORCE LTD",
     "supplier_website": "http://creativeforce.team",
@@ -493,7 +473,7 @@
     "product_name": "CurricuLLM",
     "supplier_name": "CURRICULLM PTY LTD",
     "supplier_website": "http://curricullm.com",
-    "version": "Free & Paid",
+    "version": "Free and Paid",
     "framework": "2025.1",
     "product_eligible_badge": "Assessed 2025",
     "product_recognised_countries": "AU, NZ",
@@ -508,16 +488,6 @@
     "product_eligible_badge": "Assessed 2025",
     "product_recognised_countries": "AU, NZ",
     "ai": "AI not assessed"
-  },
-  {
-    "product_name": "SIMON Learning and School Administration",
-    "supplier_name": "SIMON (DOBCEL)",
-    "supplier_website": "https://simonschools.net/en-au/simon-learning-and-student-administration",
-    "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU",
-    "ai": ""
   },
   {
     "product_name": "Scriibi",
@@ -700,16 +670,6 @@
     "ai": ""
   },
   {
-    "product_name": "Firefly Education Online",
-    "supplier_name": "FIREFLY EDUCATION PTY LTD",
-    "supplier_website": "https://www.fireflyeducation.com.au",
-    "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU, NZ",
-    "ai": ""
-  },
-  {
     "product_name": "Wellio",
     "supplier_name": "WELLIO PTY LTD",
     "supplier_website": "https://www.wellioeducation.com/",
@@ -888,16 +848,6 @@
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
-  },
-  {
-    "product_name": "Career Tools",
-    "supplier_name": "SOLUTIONEERS PTY LTD",
-    "supplier_website": "https://careertools.com.au/",
-    "version": "Paid",
-    "framework": "2024.1",
-    "product_eligible_badge": "Assessed 2024",
-    "product_recognised_countries": "AU",
-    "ai": "AI assessed"
   },
   {
     "product_name": "Wingaru Kids",
@@ -1190,16 +1140,6 @@
     "ai": ""
   },
   {
-    "product_name": "Inventorium Education",
-    "supplier_name": "INVENTORIUM PTY LTD",
-    "supplier_website": "http://inventorium.com.au",
-    "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU",
-    "ai": ""
-  },
-  {
     "product_name": "Kahoot! EDU",
     "supplier_name": "KAHOOT! ASA",
     "supplier_website": "http://kahoot.com",
@@ -1273,7 +1213,7 @@
     "product_name": "Teacher's Buddy",
     "supplier_name": "TEACHER'S BUDDY PTY LTD",
     "supplier_website": "https://www.teachersbuddy.com",
-    "version": "Free & Paid",
+    "version": "Free and Paid",
     "framework": "2025.1",
     "product_eligible_badge": "Assessed 2025",
     "product_recognised_countries": "AU, NZ",
@@ -1464,8 +1404,8 @@
     "supplier_name": "PAPERLY PTY LTD",
     "supplier_website": "https://paperly.education",
     "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
+    "framework": "2025.1",
+    "product_eligible_badge": "Assessed 2025",
     "product_recognised_countries": "AU, NZ",
     "ai": ""
   },
@@ -1788,16 +1728,6 @@
     "product_eligible_badge": "Assessed 2024",
     "product_recognised_countries": "AU, NZ",
     "ai": "AI assessed"
-  },
-  {
-    "product_name": "Seesaw",
-    "supplier_name": "SEESAW LEARNING, INC.",
-    "supplier_website": "https://web.seesaw.me",
-    "version": "Paid",
-    "framework": "2022.1",
-    "product_eligible_badge": "Assessed 2022",
-    "product_recognised_countries": "AU, NZ",
-    "ai": ""
   },
   {
     "product_name": "Xuno Suite",
